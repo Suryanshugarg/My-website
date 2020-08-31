@@ -1,0 +1,126 @@
+body{
+  margin: 0;
+  text-align: center;
+
+
+  font-family: 'Comic Sans MS', serif;
+  font-weight: bold;
+  font-size: 16px;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-size: 4.625rem;
+  font-family: 'Parkavenue', cursive;
+  color:  #66BFBF;
+}
+h2{
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF ;
+}
+h3{
+  font-family: 'Montserrat',sans-serif;
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.h2_top{
+  font-weight: normal;
+  line-height: 2;
+}
+.digital{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.cloud{
+  width:25%;
+  float: right;
+  margin-left: 30px;
+}
+.profile{
+  width: 25%;
+  margin: auto;
+  margin-top: 100px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  width: 4%;
+  border-color: #e5e5e5;
+  margin: 80px auto 80px auto;
+}
+.contact-me{
+  width: 40%;
+  margin: auto auto 50px auto;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px;
+}
+.footer-link{
+  margin-left: 30px;
+  margin-right: 30px;
+  text-decoration: none;
+}
+.last_p{
+  color: #EAF6F6;
+  margin-top: 30px;
+  font-weight: 100;
+  font-size: 13px;
+}
+.btn {
+	background-color:#44c767;
+	-webkit-border-top-left-radius:8px;
+	-moz-border-radius-topleft:8px;
+	border-top-left-radius:8px;
+	-webkit-border-top-right-radius:8px;
+	-moz-border-radius-topright:8px;
+	border-top-right-radius:8px;
+	-webkit-border-bottom-right-radius:8px;
+	-moz-border-radius-bottomright:8px;
+	border-bottom-right-radius:8px;
+	-webkit-border-bottom-left-radius:8px;
+	-moz-border-radius-bottomleft:8px;
+	border-bottom-left-radius:8px;
+text-indent:0;
+	border:1px solid #18ab29;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #2f6627;
+}.btn:hover {
+	background-color:#5cbf2a;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
+.top{
+  background-color: #E4F9F5;
+  position:relative;
+  padding-top: 100px;
+}
+.top-cloud{
+  position: absolute;
+  right:300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+}
